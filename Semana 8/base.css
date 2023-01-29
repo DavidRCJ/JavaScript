@@ -1,0 +1,16 @@
+*{
+    margin: 0;
+    padding: 0;
+    background-color: blueviolet;
+}
+
+h1{
+    display: flex;
+    text-align: justify;
+    font-size: 30px;
+}
+p{
+    display: flex;
+    text-align: justify;
+    font-size: 20px;
+}
